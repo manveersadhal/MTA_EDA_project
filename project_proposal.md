@@ -12,8 +12,20 @@ An individual sample from the MTA turnstile data will be the number of entries a
 
 ## Tools
 
-Tools which will be used to gather data will be SQLite along with the DB Browser. Python will be used to organize and clean the data. Matplotlib and seaborn will be used to create visualizations.
+A variety of tools including an assortment of Python libraries will be used to complete the analysis required for this project.
+
+-Data Gathering:
+    -SQLite with DB Browser
+    -SQLAlchemy to query imported data
+-Data Cleaning:
+    -Pandas
+-Exploratory Data Analysis:
+    -DB Browser
+    -Pandas
+-Data Visualization:
+    -Matplotlib
+    -Seaborn
 
 ## MVP Goal
 
-MVP would look like...
+The minimum viable product for this project would be determining which turnstiles have the highest traffic as a starting point for where WTWY should place street teams.
