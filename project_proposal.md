@@ -14,17 +14,17 @@ An individual sample from the MTA turnstile data will be the number of entries a
 
 A variety of tools including an assortment of Python libraries will be used to complete the analysis required for this project.
 
--Data Gathering:
-    -SQLite with DB Browser
-    -SQLAlchemy to query imported data
--Data Cleaning:
-    -Pandas
--Exploratory Data Analysis:
-    -DB Browser
-    -Pandas
--Data Visualization:
-    -Matplotlib
-    -Seaborn
+- Data Gathering:
+    - SQLite with DB Browser
+    - SQLAlchemy to query imported data
+- Data Cleaning:
+    - Pandas
+- Exploratory Data Analysis:
+    - DB Browser
+    - Pandas
+- Data Visualization:
+    - Matplotlib
+    - Seaborn
 
 ## MVP Goal
 
