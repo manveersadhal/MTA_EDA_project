@@ -1,4 +1,6 @@
 # Street Team Placement Proposal for WTWY International
+#### Manveer Sadhal
+#### Sep 8, 2021
 
 ## Question/Need
 
@@ -18,20 +20,22 @@ An individual sample from the MTA turnstile data will be the number of entries a
 
 ## Tools
 
-A variety of tools including an assortment of Python packages will be used to complete the analysis required for this project.
+A variety of tools including an assortment of Python packages will be used to complete the analysis required for this project. The Python tools will be used as part of a Jupyter Notebook.
 
-- Data Ingestion and Storage:
+- Data Ingestion and Storage
     - SQLite with DB Browser
     - SQLAlchemy to query imported data
-- Data Cleaning:
+- Data Cleaning
     - Pandas
-- Exploratory Data Analysis:
+- Exploratory Data Analysis
     - Pandas
     - DB Browser
-- Data Visualization:
+- Data Visualization
     - Matplotlib
     - Seaborn
 
-## Minimum Viable Product Goal
+## Minimum Viable Product (MVP) Goal
 
-The minimum viable product for this project would be determining which turnstiles have the highest traffic as a starting point for where WTWY should place street teams.
+The minimum viable product for this project would be determining which subway stations have the highest traffic through turnstiles as a starting point for where WTWY should place street teams.
+
+This will be presented using visualizations and brief text to explain the conclusions of the analysis.
