@@ -22,7 +22,9 @@ The monthly trend of traffic shows an increase in traffic at the beginning of sp
 
 ![monthly traffic](monthly_traffic.png)
 
-The analysis completed to this point suggests that Grand Central Station, Herald Square, Penn Station, Port Authority, and Union Square should be the focus of promotion efforts. Weekdays would be best. Additional traffic seen at the beginning of spring may be of help to promotional efforts, but may also simply be an indication of increased tourism, which would not be particularly helpful to WTWY.
+### Conclusions
+
+The analysis completed to this point suggests that Grand Central Station, Herald Square, Penn Station, Port Authority (Times Square), and Union Square should be the focus of promotion efforts. Weekdays would be best. Additional traffic seen at the beginning of spring may be of help to promotional efforts, but may also simply be an indication of increased tourism, which would not be particularly helpful to WTWY.
 
 ### Further Analysis
 The time of day to promote has not yet been evaluated. Also, demographic data was not considered in this preliminary analysis. These are two areas where future efforts will be focused. Additional turnstile entry data from other time periods may also be considered.
